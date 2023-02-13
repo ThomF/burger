@@ -3,10 +3,10 @@ class FakeDb {
     Burgers = [
         {
             id: '1',
-            name: 'cheese burger'
+            name: 'cheeseBurger'
         }, {
             id: '2',
-            name: 'OG burger'
+            name: 'OGburger'
         }
 
 
